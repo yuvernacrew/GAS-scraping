@@ -1,0 +1,14 @@
+{
+  // *.tsは自動でフォーマットする
+  "[typescript]": {
+    "editor.formatOnSave": true
+  },
+  // *.tsxは自動でフォーマットする
+  "[typescriptreact]": {
+      "editor.formatOnSave": true
+  },
+  "editor.formatOnSave": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}
