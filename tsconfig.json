@@ -1,4 +1,7 @@
 {
+  "compilerOptions": {
+    "target": "es6"
+  },
   "defaultSeverity": "error",
   "extends": [
     "tslint:recommended",
